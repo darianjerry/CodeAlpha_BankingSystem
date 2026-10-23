@@ -1,6 +1,6 @@
 # C++ Console Banking & Finance System 💳
 
-A robust, object-oriented console-based banking and personal finance application built in C++. Designed to manage customer profiles, secure login credentials, savings, loans, expenses, daily income, and real-time transaction logging.
+An object-oriented console-based banking and personal finance application built in C++. Designed to manage customer profiles, secure login credentials, savings, loans, expenses, daily income, and real-time transaction logging.
 
 ## 🚀 Features
 
@@ -18,7 +18,3 @@ A robust, object-oriented console-based banking and personal finance application
 ## ⚙️ Getting Started & Compilation
 
 To run this project locally, ensure you have a C++ compiler installed (like GCC/MinGW or Clang).
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
